@@ -28,4 +28,9 @@ h1{
     border: none;
     cursor: pointer;
     padding: 1rem;
+    font-size: 1rem;
 }
+.generator-color:hover{
+    background-color: brown;
+}
+
